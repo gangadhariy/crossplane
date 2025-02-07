@@ -11,7 +11,7 @@ spec:
   vnetSubnetIDRef:
     name: sub-crossplane
   location: eastus
-  version: "1.23.8"
+  version: "1.30.0"
   nodeCount: 1
   nodeVMSize: Standard_B2s
   dnsNamePrefix: crossplane-aks
