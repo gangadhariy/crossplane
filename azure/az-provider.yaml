@@ -19,4 +19,4 @@ spec:
    secretRef:
      namespace: crossplane-system
      name: azure-secret
-     key: credentials
+     key: creds
