@@ -20,7 +20,7 @@ spec:
     storageProfile:
       storageMB: 40960
   writeConnectionSecretToRef:
-    namespace: crossplane
+    namespace: crossplane-system
     name: fox-psqldb
   providerConfigRef:
     name: default
