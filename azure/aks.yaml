@@ -19,5 +19,5 @@ spec:
   providerConfigRef:
     name: default
   writeConnectionSecretToRef:
-    namespace: crossplane-system
+    namespace: crossplane
     name: xrdakscluster
